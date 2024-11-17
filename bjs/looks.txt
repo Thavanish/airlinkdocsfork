@@ -1,7 +1,7 @@
 # Globals
 //body=margin: 0
 
-# Hintergrundfarben
+# Background colors
 bg-black=background-color: black;
 bg-white=background-color: white;
 bg-red=background-color: red;

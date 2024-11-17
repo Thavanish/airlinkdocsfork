@@ -1,6 +1,6 @@
-    <div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center; background: #f4f4f4;">
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
         <div>
-            <h1 look="text-black" style="font-size: 36px; margin-bottom: 20px;">Fly Higher with <span look="text-blue">Airlink</span> Panel</h1>
+            <h1 look="text-white" style="font-size: 36px; margin-bottom: 20px;">Fly Higher with <span look="text-orange">Airlink</span> Panel</h1>
             <p style="color: #666; font-size: 18px;">Airlink</p>
             <button look="bg-blue text-white px-10 pt-2.5 rounded-md shadow-md hover-shadow" bjs-action="alert: #popup">
                 Get Started!
